@@ -26,7 +26,7 @@ public class AppConstants {
 
 	
 	public static final int MACBOOK_PRO_IMAGES_COUNT = 5;
-	public static final int MACBOOK_AIR_IMAGES_COUNT =4;
+	public static final int MACBOOK_AIR_IMAGES_COUNT =5;
 	public static final int IMAC_IMAGES_COUNT =3;
 	public static final String ACC_CREATE_SUCC_MESSG = "Your Account Has Been Created!";
 	
